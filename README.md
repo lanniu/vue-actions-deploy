@@ -1,29 +1,3 @@
-# vue-actions-deploy
+该repo用于演示如何通过github pages部署vue
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+详见本人[博客](https://lanniu.blog.csdn.net/article/details/103681903)
