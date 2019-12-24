@@ -2,6 +2,7 @@
   "name": "vue-actions-deploy",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://lanniu.github.io/vue-actions-deploy",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
