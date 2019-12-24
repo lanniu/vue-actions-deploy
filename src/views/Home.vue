@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    {{ENV_TEST}}
-    <img alt="Vue logo" src="../assets/logo.png">
+    {{ ENV_TEST }}
+    <img alt="Vue logo" src="../assets/logo.png"/>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
@@ -15,12 +15,12 @@ export default {
   components: {
     HelloWorld
   },
-  data(){
+  data () {
     return {
       ENV_TEST: ''
     }
   },
-  mounted(){
+  mounted () {
     this.ENV_TEST = process.env.VUE_APP_ENV_TEST
   }
 }
